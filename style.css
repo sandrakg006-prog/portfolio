@@ -10,7 +10,7 @@ body {
     color: white;
 }
 
-/* Navbar */
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -32,7 +32,7 @@ nav ul li a {
     color: white;
 }
 
-/* Home */
+
 .home {
     text-align: center;
     padding: 100px 20px;
@@ -43,7 +43,7 @@ nav ul li a {
     margin-bottom: 15px;
 }
 
-/* Projects */
+
 #projects {
     padding: 40px;
     text-align: center;
@@ -74,20 +74,20 @@ nav ul li a {
     transform: scale(1.08);
 }
 
-/* About & Contact */
+
 #about, #contact {
     padding: 40px;
     text-align: center;
 }
 
-/* Footer */
+
 footer {
     text-align: center;
     padding: 15px;
     background: rgba(0,0,0,0.3);
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
     .projects-container {
         flex-direction: column;
