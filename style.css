@@ -51,8 +51,7 @@ nav ul li a {
 
 .projects-container {
     display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .project-card {
